@@ -3,3 +3,4 @@ empezando el proyecto de dpweb
 utilizando git y github 
 
 mi nombre es bryan y soy el dev del equipo 
+tengo 22 años y soy dev web
